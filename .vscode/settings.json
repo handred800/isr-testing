@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.env.windows": {
+        "PATH": "/d/node_env/node-v18.20.3-win-x64:${env:PATH}"
+    }
+}
