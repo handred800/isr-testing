@@ -6,4 +6,11 @@ export default defineNuxtConfig({
     '/**': { isr: true },
     '/static_time': { isr: 60 }
   },
+  nitro: {
+    vercel: {
+      config: {
+        bypassToken: 'b0751327d4a0d35a806326a8b80d2fba'
+      }
+    }
+  }
 })
