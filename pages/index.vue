@@ -2,10 +2,10 @@
     <div>
         <ul>
             <li>
-                <nuxt-link to="/static">static</nuxt-link>
+                <a href="/static">static</a>
             </li>
             <li>
-                <nuxt-link to="/static_time">static_time</nuxt-link>
+                <a href="/static_time">static_time</a>
             </li>
         </ul>
     </div>
